@@ -38,6 +38,8 @@ As I continue developing my skills, I also plan to deepen my knowledge of `Cyber
 
 <br clear="left">
 
+<br>
+
 <div align="center">
 
 `"All of the liabilities of this world are due to the inadequacies of the person involved."`
