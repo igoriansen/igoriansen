@@ -70,7 +70,7 @@ $$
     <td valign="top" width="55%" align="center">
       <code>GITHUB STREAK</code>
       <br><br>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=igoriansen&theme=youtube-dark&mode=weekly&hide_border=true&background=00000000" width="100%" alt="GitHub Streak"></a>
+      <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="100%" /></a>
     </td>
   </tr>
 </table>
