@@ -1,3 +1,21 @@
+<!--
+  Hey there! Thanks for checking out the source of my README.
+
+  Feel free to use its structure and code as inspiration or as a base for
+  your own profile. I only ask that you personalize it instead of making
+  an exact copy.
+
+  If this README helped you, consider leaving a star as a small gesture
+  of support:
+  ★ My README: https://github.com/igoriansen/igoriansen
+  ★ Glauedson's README: https://github.com/glauedson/glauedson
+
+  Glauedson's profile was one of the main inspirations behind this README,
+  so make sure to check out and support his work as well.
+
+  I hope you enjoyed it — have fun creating yours!
+-->
+
 <a href="https://github.com/igoriansen">
   <img src="./assets/img/header-kaneki.png" alt="Kaneki Banner"  style="width:100%; height:auto">
 </a>
