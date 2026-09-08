@@ -30,9 +30,9 @@
 
 <img src="./assets/icons/mask-icon.png" width="185" align="right" alt="Kaneki Mask">
 
-Hi there! I'm **Igor Iansen**, currently in the second semester of a degree in `Multiplatform Software Development`. Through practical projects and modern technologies, I am learning how to **turn ideas and real-world challenges into functional digital solutions**.
+Hi there! I'm **Igor Iansen**, currently in the second semester of a degree in `Multiplatform Software Development`.
 
-My interest in technology began during childhood, especially through video games, and grew into a passion for understanding the **logic behind digital experiences**. Today, I am focused on developing my technical skills through continuous learning, creativity, and hands-on practice, with the goal of becoming a versatile software developer.
+My interest in technology began during childhood, especially through video games, and grew into a curiosity about the **logic behind digital experiences**. Today, I see software development as a space where creativity and problem-solving come together, and I am working toward becoming a versatile developer.
 
 <br clear="right">
 
@@ -48,9 +48,9 @@ My interest in technology began during childhood, especially through video games
 
 `CURRENTLY`
 
-At the moment, I am focused on **Full-Stack Development**, building practical projects and participating in hackathons to challenge myself and learn through real experiences.
+At the moment, I am focused on **Full-Stack Development**, building projects that strengthen my experience across both front-end and back-end technologies while participating in hackathons.
 
-As I continue developing my skills, I also plan to deepen my knowledge of `Cybersecurity` and `Artificial Intelligence`, two increasingly important areas in modern software development. My goal is to build a versatile technical foundation and create solutions that are not only functional, but also **secure, intelligent, and relevant to real-world needs**.
+I am also beginning to explore `Cybersecurity` and `Artificial Intelligence`, with the long-term goal of creating systems that are not only functional, but also **secure, intelligent, and relevant to real-world needs**.
 
 </div>
 
